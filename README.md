@@ -1,22 +1,22 @@
-<h1 align="center">POLAR</h1>
+<h1 align="center">𝙿𝙾𝙻𝙰𝚁</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=booting+system...;initializing+modules...;loading+cybersecurity+tools...;ai+systems+online...;welcome+to+polarhk" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&duration=2500&pause=800&color=00FFAA&center=true&vCenter=true&width=700&lines=booting+polarhk...;loading+kernel...;initializing+cyber+modules...;ai+core+online...;system+ready" />
 </p>
 
 ---
 
 ```bash
+> boot sequence initialized...
+
+[ ✓ ] kernel loaded
+[ ✓ ] security modules active
+[ ✓ ] ai core initialized
+[ ✓ ] network secured
+
 > whoami
 polarhk
 
-> skills --list
-[ cybersecurity, artificial_intelligence, linux, python ]
-
-> system_info
-os: arch linux
-editor: vscode
-shell: zsh
-
-> status
-building secure and intelligent systems...
+> load_profile
+role: cybersecurity + ai
+status: active
