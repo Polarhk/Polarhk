@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Polarhk/Polarhk/main/banner.png" />
-</p>
-
 <h1 align="center">Polar</h1>
 
 <p align="center">
@@ -46,14 +42,6 @@ linux enthusiast
 - 🔐 cybersecurity tools  
 - 🤖 ai systems  
 - 🐧 linux customization  
-
----
-
-### contact
-
-<p>
-  github.com/Polarhk
-</p>
 
 ---
 
