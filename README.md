@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,arch,linux,vscode" />
 </p>
 
 ---
