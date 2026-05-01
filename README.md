@@ -1,22 +1,37 @@
-<h1 align="center">𝙿𝙾𝙻𝙰𝚁</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Polarhk/Polarhk/main/banner.png" />
+</p>
+
+<h2 align="center">Polar</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&duration=2500&pause=800&color=00FFAA&center=true&vCenter=true&width=700&lines=booting+polarhk...;loading+kernel...;initializing+cyber+modules...;ai+core+online...;system+ready" />
+  cybersecurity • artificial intelligence
 </p>
 
 ---
 
-```bash
-> boot sequence initialized...
+### stack
+<p>
+  <img src="https://skillicons.dev/icons?i=arch,python,linux,git" />
+</p>
 
-[ ✓ ] kernel loaded
-[ ✓ ] security modules active
-[ ✓ ] ai core initialized
-[ ✓ ] network secured
+---
 
-> whoami
-polarhk
+### stats
+<p>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Polarhk&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" />
+</p>
 
-> load_profile
-role: cybersecurity + ai
-status: active
+---
+
+### focus
+- cybersecurity
+- artificial intelligence
+- linux systems
+
+---
+
+### projects
+<p>
+  → building secure and intelligent systems
+</p>
